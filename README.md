@@ -28,8 +28,8 @@
 <h1></h1>
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bahrain.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+I am an Computer Engineering Undergraduate Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> @ University of Bahrain.
+- :telescope: I’m studing as a Computer Engineering student and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
 
