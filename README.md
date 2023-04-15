@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/J3ZB0wvXjsmJEvI2Dd/giphy.gif" width= 120"/>
+  <img src="https://media.giphy.com/media/J3ZB0wvXjsmJEvI2Dd/giphy.gif" width= "150"/>
   <div id="badges">
   <a href="https://www.linkedin.com/in/abdulrahman-almarzouqi-6b9b48242/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
