@@ -82,7 +82,11 @@ I am an Computer Engineering Undergraduate Student <img src="https://media.giphy
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamani115&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<h1></h1>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/iiJ870TcI3PZKxatzS/giphy.gif" width="600"/>
+</div>
 <!--
 **hamani115/hamani115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
