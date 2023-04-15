@@ -1,16 +1,22 @@
 <div id="header" align="center">
+  <h1>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Hey there! I'm Abdulrahman
+</h1>
   <img src="https://media.giphy.com/media/J3ZB0wvXjsmJEvI2Dd/giphy.gif" width= "150"/>
   <div id="badges">
-  <a href="https://www.linkedin.com/in/abdulrahman-almarzouqi-6b9b48242/">
+<!--   <a href="https://www.linkedin.com/in/abdulrahman-almarzouqi-6b9b48242/"> -->
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+<!--   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+  </a> -->
 </div>
+<!-- <img src="https://komarev.com/ghpvc/?username=hamani115&style=flat-square&color=blue" alt=""/> -->
+
 </div>
 
 <!--
