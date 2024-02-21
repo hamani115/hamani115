@@ -49,7 +49,7 @@
 
 - :zap: In my free time, I read books and build small projects.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrahman-almarzouqi-6b9b48242/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrahman-almarzouqi-6b9b48242/)
 
 <div align="center">
   <img src="https://media.giphy.com/media/ckr4W2ppxPBeIF8dx4/giphy.gif" width="600"/>
